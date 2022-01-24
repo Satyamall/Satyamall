@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Staya Prakash Mall
 
-![giphy](https://user-images.githubusercontent.com/80479635/150354481-99052d4f-e34a-4272-b77c-b7523003bea0.gif)
+![giphy](https://user-images.githubusercontent.com/80479635/150354481-99052d4f-e34a-4272-b77c-b7523003bea0.gif,https://user-images.githubusercontent.com/80479635/150354481-99052d4f-e34a-4272-b77c-b7523003bea0.gif)
 
 
 **Satyamall/Satyamall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
