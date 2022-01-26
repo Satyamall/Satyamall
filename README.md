@@ -1,4 +1,4 @@
-### Hi there 👋 I am Staya Prakash Mall
+### Hi there 👋 I am Satya Prakash Mall
 
 ![giphy](https://user-images.githubusercontent.com/80479635/150354481-99052d4f-e34a-4272-b77c-b7523003bea0.gif)
 
