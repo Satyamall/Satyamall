@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=geekypradip&&show_icons=true&title_color=bb2acf&icon_color=bb2acf&text_color=151515&bg_color=ffffff"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Satyamall&&show_icons=true&title_color=bb2acf&icon_color=bb2acf&text_color=151515&bg_color=ffffff"/>
 
 **Languages and Tools:**  
 
@@ -37,24 +37,24 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
 
-<a href="https://github.com/geekypradip">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geekypradip&theme=light&hide_langs_below=1" />
+<a href="https://github.com/Satyamall">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyamall&theme=light&hide_langs_below=1" />
 </a> 
-<a href="https://github.com/geekypradip/bath-and-body-works-clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=geekypradip&repo=bath-and-body-works-clone&theme=light" />
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Satyamall&repo=bath-and-body-works-clone&theme=light" />
 
 </a>
-<a href="https://github.com/geekypradip/fathom-heath">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=geekypradip&repo=fathom-heath&theme=light" />
+<a href="">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Satyamall&repo=fathom-heath&theme=light" />
 </a>
-<a href="https://github.com/geekypradip/newsApp">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=geekypradip&repo=newsApp&theme=light" />
+<a href="">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Satyamall&repo=newsApp&theme=light" />
 </a>
-<a href="https://github.com/geekypradip/food-app">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=geekypradip&repo=food-app&theme=light" />
+<a href="">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Satyamall&repo=food-app&theme=light" />
 </a>
-<a href="https://github.com/geekypradip/car-showroom-React">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=geekypradip&repo=car-showroom-React&theme=light" />
+<a href="">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Satyamall&repo=car-showroom-React&theme=light" />
 </a>
 
 <div align="center">
