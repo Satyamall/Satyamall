@@ -102,20 +102,20 @@ I'm a passionate Full Stack Web Developer specilized in MERN stack. My passion f
 
 # Projects: 
 
-<a href="https://github.com/Satyamall/Booking.com-clone-in-React.js">
+<a href="https://satyamall.github.io/Booking.com-in-React.js-cloned/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Satyamall&repo=Booking.com-clone-in-React.js&theme=light" />
 </a>
-<a href="">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Satyamall&repo=&theme=light" />
+<a href="https://e-commerce-website-with-cart.herokuapp.com/">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Satyamall&repo=React-E-commerce-Website-with-Cart-functionality-by-using-Router&theme=light" />
+</a>
+<a href="https://affectionate-pare-c33ba4.netlify.app/">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Satyamall&repo=React-Google-Timer-Stopwatch&theme=light" />
 </a>
 <a href="">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Satyamall&repo=&theme=light" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Satyamall&repo=GaanaMusicClone&theme=light" />
 </a>
-<a href="">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Satyamall&repo=&theme=light" />
-</a>
-<a href="">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Satyamall&repo=&theme=light" />
+<a href="https://satyamall.github.io/Project-1-Manganese-Clone-GreenHouse.io/">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Satyamall&repo=Project-1-Manganese&theme=light" />
 </a>
 
 <div align="center">
