@@ -32,7 +32,18 @@ I'm a passionate Full Stack Web Developer specilized in MERN stack. My passion f
 - ⚡ Fun fact: ...
 
 <br/>
+
+# 
+
+<p align="left">
+    <a href="https://github.com/Satyamall/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Repositories streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Satyamall&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Satyamall&&show_icons=true&title_color=bb2acf&icon_color=bb2acf&text_color=151515&bg_color=ffffff"/>
+<br/>
+<br/>
 
 # Languages and Tools: 
 
@@ -66,6 +77,7 @@ I'm a passionate Full Stack Web Developer specilized in MERN stack. My passion f
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyamall&theme=light&hide_langs_below=1" />
 </a> 
 </div>
+<br/>
 
 # Get in touch with me:
 
