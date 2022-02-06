@@ -37,7 +37,7 @@ I'm a passionate Full Stack Web Developer specilized in MERN stack. My passion f
 
 <p align="left">
     <a href="https://github.com/Satyamall/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Repositories streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Satyamall&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Satyamall streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Satyamall&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 <a href="https://github.com/Satyamall/github-readme-stats">
@@ -78,6 +78,11 @@ I'm a passionate Full Stack Web Developer specilized in MERN stack. My passion f
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyamall&theme=light&hide_langs_below=1" />
 </a> 
 </div>
+<br/>
+<br/>
+
+<a href="https://github.com/Satyamall/github-readme-activity-graph"><img alt="Satyamall Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Satyamall&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=false" /></a>
+
 <br/>
 <br/>
 
