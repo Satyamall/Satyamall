@@ -111,7 +111,7 @@ I'm a passionate Full Stack Web Developer specilized in MERN stack. My passion f
 <a href="https://affectionate-pare-c33ba4.netlify.app/">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Satyamall&repo=React-Google-Timer-Stopwatch&theme=light" />
 </a>
-<a href="">
+<a href="#">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Satyamall&repo=GaanaMusicClone&theme=light" />
 </a>
 <a href="https://satyamall.github.io/Restaurant-Website-in-javaScript/">
