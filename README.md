@@ -50,21 +50,21 @@ I'm a passionate Full Stack Web Developer specilized in MERN stack. My passion f
 
 <div>
     <div>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="35"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="35" />&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="35"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="35"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="35" />&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="35"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="40"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="40" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="40"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="40"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="40" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="40"/>&nbsp;&nbsp;
+     <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" height="40"/>&nbsp;&nbsp;
     </div>
     &nbsp;&nbsp;
     <div>
-        <img src="https://miro.medium.com/max/824/1*9RqBEDU9Mbg6XM8O6d7Q9A.png" alt="Bootstrap" width="150" height="35" />&nbsp;&nbsp;
-        <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ApzmTqdP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/5331q5cjvpzh972u5xgo.png" alt="Material-UI" width="150" height="35"/>&nbsp;&nbsp;
-        <img src="https://jquery-plugins.net/image/plugin/chakra-ui-simple-modular-accessible-ui-components-for-react-applications.png" alt="Chakra-UI" width="150" height="35" />&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/HTML5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" height="35"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" height="35" />&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" height="35"/>&nbsp;&nbsp;
+        <img src="https://miro.medium.com/max/824/1*9RqBEDU9Mbg6XM8O6d7Q9A.png" alt="Bootstrap" width="150" height="40" />&nbsp;&nbsp;
+        <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ApzmTqdP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/5331q5cjvpzh972u5xgo.png" alt="Material-UI" width="150" height="40"/>&nbsp;&nbsp;
+        <img src="https://jquery-plugins.net/image/plugin/chakra-ui-simple-modular-accessible-ui-components-for-react-applications.png" alt="Chakra-UI" width="150" height="40" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/HTML5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" height="40"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" height="40" />&nbsp;&nbsp;
     </div>
 </div>
 <br/>
@@ -86,16 +86,16 @@ I'm a passionate Full Stack Web Developer specilized in MERN stack. My passion f
 
 <p>
     <a href="https://github.com/Satyamall" target="_open">
-        <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+        <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" heigth="40" />
     </a> 
     <a href="https://twitter.com/SatyaMall895380" target="_open">
-        <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+        <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="40"/>
     </a>
     <a href="https://www.linkedin.com/in/satya-prakash-mall-125649216/" target="_open">
-        <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+        <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
     </a> 
     <a href="mailto:thesatyamall123@gmail.com" target="_open">
-        <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+        <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
     </a>
 </p>
 <br/>
