@@ -2,16 +2,18 @@
 
 <!-- ![giphy](https://user-images.githubusercontent.com/80479635/150354481-99052d4f-e34a-4272-b77c-b7523003bea0.gif) -->
 <img src="https://user-images.githubusercontent.com/80479635/150354481-99052d4f-e34a-4272-b77c-b7523003bea0.gif" width="100%" height="400" alt="giphy"/>
+<br/>
+<br/>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Satyamall&label=Profile%20views&color=129e00&style=plastic" alt="Satyamall" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Satyamall&label=Profile%20views&color=129e00&style=plastic" alt="Satyamall" height="50" /> </p>
 
 <img align='right' src="https://media4.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e47ujlr0uahs95slznce2ixmf10nan8vu1nqdktk1c5&rid=giphy.gif&ct=g" width="330">
 
 I'm a passionate Full Stack Web Developer specilized in MERN stack. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
-
-
-
+<br/>
+<br/>
+<br/>
+<br/>
 
 # Here are some ideas to get you started:
 
@@ -29,6 +31,7 @@ I'm a passionate Full Stack Web Developer specilized in MERN stack. My passion f
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Satyamall&&show_icons=true&title_color=bb2acf&icon_color=bb2acf&text_color=151515&bg_color=ffffff"/>
 
 # Languages and Tools: 
+
 <div>
     <div>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
@@ -51,8 +54,17 @@ I'm a passionate Full Stack Web Developer specilized in MERN stack. My passion f
     <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />&nbsp;&nbsp;
     </div>
 </div>
+<br/>
+<br/>
 
-<h3>Get in touch with me</h3>
+<div>
+<a href="https://github.com/Satyamall">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyamall&theme=light&hide_langs_below=1" />
+</a> 
+</div>
+
+# Get in touch with me:
+
 <p>
     <a href="https://github.com/Satyamall" target="_open">
         <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
@@ -67,10 +79,10 @@ I'm a passionate Full Stack Web Developer specilized in MERN stack. My passion f
         <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
 </p>
+<br/>
 
-<a href="https://github.com/Satyamall">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyamall&theme=light&hide_langs_below=1" />
-</a> 
+# Projects: 
+
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Satyamall&repo=&theme=light" />
 </a>
