@@ -102,8 +102,8 @@ I'm a passionate Full Stack Web Developer specilized in MERN stack. My passion f
 
 # Projects: 
 
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Satyamall&repo=&theme=light" />
+<a href="https://github.com/Satyamall/Booking.com-clone-in-React.js">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Satyamall&repo=Booking.com-clone-in-React.js&theme=light" />
 </a>
 <a href="">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Satyamall&repo=&theme=light" />
