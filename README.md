@@ -20,7 +20,7 @@ I'm a passionate Full Stack Web Developer specilized in MERN stack. My passion f
 - 👯 I’m looking to collaborate on Open source Web project
 - 🤔 I’m looking for help with JOB
 - 💬 Ask me about Anything ,You wont back Empty
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/satya-prakash-mall-125649216/"><img style="width:20px" src="" /></a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/satya-prakash-mall-125649216/"><img style="width:20px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a>
 - 🌐 <a href="">check my portfolio Website</a>
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: ...
@@ -28,8 +28,8 @@ I'm a passionate Full Stack Web Developer specilized in MERN stack. My passion f
 <br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Satyamall&&show_icons=true&title_color=bb2acf&icon_color=bb2acf&text_color=151515&bg_color=ffffff"/>
 
-**Languages and Tools:**  
-<div style="">
+# Languages and Tools: 
+<div>
     <div>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;
@@ -41,7 +41,9 @@ I'm a passionate Full Stack Web Developer specilized in MERN stack. My passion f
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
     </div>
     <div>
-        <img src="" />
+        <img src="https://miro.medium.com/max/824/1*9RqBEDU9Mbg6XM8O6d7Q9A.png" alt="Bootstrap" width="100" height="30" />&nbsp;&nbsp;
+        <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ApzmTqdP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/5331q5cjvpzh972u5xgo.png" alt="Material-UI" width="100" height="30"/>&nbsp;&nbsp;
+        <img src="https://jquery-plugins.net/image/plugin/chakra-ui-simple-modular-accessible-ui-components-for-react-applications.png" alt="Chakra-UI" width="100" height="30" />
     </div>
     <div>
     <img src="https://img.shields.io/badge/HTML5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
@@ -70,19 +72,19 @@ I'm a passionate Full Stack Web Developer specilized in MERN stack. My passion f
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyamall&theme=light&hide_langs_below=1" />
 </a> 
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Satyamall&repo=bath-and-body-works-clone&theme=light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Satyamall&repo=&theme=light" />
 </a>
 <a href="">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Satyamall&repo=fathom-heath&theme=light" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Satyamall&repo=&theme=light" />
 </a>
 <a href="">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Satyamall&repo=newsApp&theme=light" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Satyamall&repo=&theme=light" />
 </a>
 <a href="">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Satyamall&repo=food-app&theme=light" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Satyamall&repo=&theme=light" />
 </a>
 <a href="">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Satyamall&repo=car-showroom-React&theme=light" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Satyamall&repo=&theme=light" />
 </a>
 
 <div align="center">
