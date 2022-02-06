@@ -72,7 +72,6 @@ I'm a passionate Full Stack Web Developer specilized in MERN stack. My passion f
 </div>
 <br/>
 <br/>
-
 <div>
 <a href="https://github.com/Satyamall">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyamall&theme=light&hide_langs_below=1" />
@@ -81,7 +80,7 @@ I'm a passionate Full Stack Web Developer specilized in MERN stack. My passion f
 <br/>
 <br/>
 
-<a href="https://github.com/Satyamall/github-readme-activity-graph"><img alt="Satyamall Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Satyamall&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=false" /></a>
+<a href="https://github.com/Satyamall/github-readme-activity-graph"><img alt="Satyamall Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Satyamall&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
