@@ -117,7 +117,9 @@ I'm a passionate Full Stack Web Developer specilized in MERN stack. My passion f
 <a href="https://satyamall.github.io/Project-1-Manganese-Clone-GreenHouse.io/">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Satyamall&repo=Project-1-Manganese&theme=light" />
 </a>
-
+<a href="https://satyamall.github.io/Restaurant-Website-in-javaScript/">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Satyamall&repo=Restaurant-Website-in-javaScript&theme=light" />
+</a>
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
