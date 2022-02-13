@@ -57,6 +57,12 @@ I'm a passionate Full Stack Web Developer specilized in MERN stack. My passion f
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="40" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="40"/>&nbsp;&nbsp;
      <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" height="40"/>&nbsp;&nbsp;
+      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+      </a>&nbsp;&nbsp;
+      <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+       </a>&nbsp;&nbsp;
     </div>
     &nbsp;&nbsp;
     <div>
