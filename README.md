@@ -4,6 +4,7 @@
 <img src="https://user-images.githubusercontent.com/80479635/150354481-99052d4f-e34a-4272-b77c-b7523003bea0.gif" width="100%" height="400" alt="giphy"/>
 <br/>
 <br/>
+I am blessed with ✨ **Problem Solving**  ✨ skill
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Satyamall&label=Profile%20views&color=129e00&style=plastic" alt="Satyamall" height="50" /> </p>
 
@@ -30,7 +31,9 @@ I'm a passionate Full Stack Web Developer specilized in MERN stack. My passion f
 - 🌐 <a href="">check my portfolio Website</a>
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: ...
-
+- <p align="left"> <a href="https://twitter.com/SatyaMall895380" target="blank">
+        <img alt="SatyaMall895380" src="https://img.shields.io/twitter/follow/SatyaMall895380?logo=twitter&style=for-the-badge" height="40"/>
+    </a></p>
 <br/>
 
 # 📊 My GitHub Stats:
@@ -50,30 +53,60 @@ I'm a passionate Full Stack Web Developer specilized in MERN stack. My passion f
 
 <div>
     <div>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="40"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="40" />&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="40"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="40"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="40" />&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="40"/>&nbsp;&nbsp;
-     <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" height="40"/>&nbsp;&nbsp;
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JAVASCRIPT" height="40"/>
+    </a>&nbsp;&nbsp;
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="REACT JS" height="40" />
+    </a>&nbsp;&nbsp;
+    <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="REDUX JS" height="40"/>
+    </a>&nbsp;&nbsp;
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NODE JS" height="40"/>
+     </a>&nbsp;&nbsp;
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="EXPRESS JS" height="40" />
+    </a>&nbsp;&nbsp;
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+         <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MONGODB" height="40"/>
+     </a>&nbsp;&nbsp;
       <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C Language" height="50"/> 
       </a>&nbsp;&nbsp;
       <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="50"/> 
        </a>&nbsp;&nbsp;
     </div>
     &nbsp;&nbsp;
     <div>
-        <img src="https://miro.medium.com/max/824/1*9RqBEDU9Mbg6XM8O6d7Q9A.png" alt="Bootstrap" width="150" height="40" />&nbsp;&nbsp;
-        <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ApzmTqdP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/5331q5cjvpzh972u5xgo.png" alt="Material-UI" width="150" height="40"/>&nbsp;&nbsp;
-        <img src="https://jquery-plugins.net/image/plugin/chakra-ui-simple-modular-accessible-ui-components-for-react-applications.png" alt="Chakra-UI" width="150" height="40" />&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/HTML5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" height="40"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" height="40" />&nbsp;&nbsp;
-      <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-            <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+            <img src="https://miro.medium.com/max/824/1*9RqBEDU9Mbg6XM8O6d7Q9A.png" alt="Bootstrap" width="150" height="40" /> 
+        </a>&nbsp;&nbsp;
+        <a href="https://mui.com/" target="_blank" rel="noreferrer">
+            <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ApzmTqdP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/5331q5cjvpzh972u5xgo.png" alt="Material-UI" width="150" height="40"/>
+        </a>&nbsp;&nbsp;
+        <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer">
+            <img src="https://jquery-plugins.net/image/plugin/chakra-ui-simple-modular-accessible-ui-components-for-react-applications.png" alt="Chakra-UI" width="150" height="40" />
+        </a>&nbsp;&nbsp;
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+         <img src="https://img.shields.io/badge/HTML5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML" height="40"/>
+    </a>&nbsp;&nbsp;
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+          <img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS" height="40" />
      </a>&nbsp;&nbsp;
+     <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
+          <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" height="40"/>
+      </a>&nbsp;&nbsp;
+      <a href="https://postman.com" target="_blank" rel="noreferrer"> 
+            <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="POSTMAN" width="40" height="40"/> 
+     </a>&nbsp;&nbsp;
+     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="40" height="40"/>       
+      </a>&nbsp;&nbsp;
+      <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
+          <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="HEROKU" width="40" height="40"/> 
+      </a>&nbsp;&nbsp;
     </div>
 </div>
 <br/>
@@ -84,6 +117,8 @@ I'm a passionate Full Stack Web Developer specilized in MERN stack. My passion f
 </a> 
 </div>
 <br/>
+<br/>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Satyamall" alt="Satyamall" /></a> </p>
 <br/>
 
 <a href="https://github.com/Satyamall/github-readme-activity-graph"><img alt="Satyamall Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Satyamall&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
