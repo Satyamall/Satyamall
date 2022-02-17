@@ -5,6 +5,7 @@
 <br/>
 <br/>
 I am blessed with ✨ **Problem Solving**  ✨ skill
+<br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Satyamall&label=Profile%20views&color=129e00&style=plastic" alt="Satyamall" height="50" /> </p>
 
@@ -81,13 +82,13 @@ I'm a passionate Full Stack Web Developer specilized in MERN stack. My passion f
     &nbsp;&nbsp;
     <div>
         <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-            <img src="https://miro.medium.com/max/824/1*9RqBEDU9Mbg6XM8O6d7Q9A.png" alt="Bootstrap" width="150" height="40" /> 
+            <img src="https://miro.medium.com/max/824/1*9RqBEDU9Mbg6XM8O6d7Q9A.png" alt="Bootstrap" width="130" height="40" /> 
         </a>&nbsp;&nbsp;
         <a href="https://mui.com/" target="_blank" rel="noreferrer">
-            <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ApzmTqdP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/5331q5cjvpzh972u5xgo.png" alt="Material-UI" width="150" height="40"/>
+            <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ApzmTqdP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/5331q5cjvpzh972u5xgo.png" alt="Material-UI" width="130" height="40"/>
         </a>&nbsp;&nbsp;
         <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer">
-            <img src="https://jquery-plugins.net/image/plugin/chakra-ui-simple-modular-accessible-ui-components-for-react-applications.png" alt="Chakra-UI" width="150" height="40" />
+            <img src="https://jquery-plugins.net/image/plugin/chakra-ui-simple-modular-accessible-ui-components-for-react-applications.png" alt="Chakra-UI" width="130" height="40" />
         </a>&nbsp;&nbsp;
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
          <img src="https://img.shields.io/badge/HTML5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML" height="40"/>
