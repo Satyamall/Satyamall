@@ -6,7 +6,7 @@
 <br/>
 I am blessed with ✨ **Problem Solving**  ✨ skill
 <br/>
-
+<br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Satyamall&label=Profile%20views&color=129e00&style=plastic" alt="Satyamall" height="50" /> </p>
 
 <img align='right' src="https://media4.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e47ujlr0uahs95slznce2ixmf10nan8vu1nqdktk1c5&rid=giphy.gif&ct=g" width="330">
@@ -132,31 +132,33 @@ I'm a passionate Full Stack Web Developer specilized in MERN stack. My passion f
 <p>
     <a href="https://github.com/Satyamall" target="_open">
         <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" heigth="40" />
-    </a> 
+    </a>&nbsp;&nbsp;
     <a href="https://twitter.com/SatyaMall895380" target="_open">
         <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="40"/>
-    </a>
+    </a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/satya-prakash-mall-125649216/" target="_open">
         <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
-    </a> 
+    </a>&nbsp;&nbsp;
     <a href="mailto:thesatyamall123@gmail.com" target="_open">
         <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
-    </a>
+    </a>&nbsp;&nbsp;
+    <div>
     <a href="https://codesandbox.io/u/Satyamall" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="Satyamall"    height="40" width="40" />
-    </a>
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="Satyamall"    height="40" />
+    </a>&nbsp;&nbsp;
     <a href="https://medium.com/@thesatyamall123" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Satya" height="40" width="40" />
-    </a>
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Satya" height="40" />
+    </a>&nbsp;&nbsp;
     <a href="https://www.codechef.com/users/spmall" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="spmall" height="40" width="40" />
-    </a>
+        <img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" alt="spmall" height="40" />
+    </a>&nbsp;&nbsp;
     <a href="https://www.hackerrank.com/thesatyamall123" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="thesatyamall123" height="40" width="40" />
-    </a>
+        <img align="center" src="https://hrcdn.net/community-frontend/assets/brand/logo-new-white-green-a5cb16e0ae.svg" alt="thesatyamall123" height="20" />
+    </a>&nbsp;&nbsp;
     <a href="https://auth.geeksforgeeks.org/user/thesatyamall123" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="thesatyamall123" height="40" width="40" />
-    </a>
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="thesatyamall123" height="40" />
+    </a>&nbsp;&nbsp;
+   </div>
 </p>
 <br/>
 
