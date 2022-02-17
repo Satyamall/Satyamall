@@ -142,6 +142,21 @@ I'm a passionate Full Stack Web Developer specilized in MERN stack. My passion f
     <a href="mailto:thesatyamall123@gmail.com" target="_open">
         <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
     </a>
+    <a href="https://codesandbox.io/u/Satyamall" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="Satyamall"    height="40" width="40" />
+    </a>
+    <a href="https://medium.com/@thesatyamall123" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Satya" height="40" width="40" />
+    </a>
+    <a href="https://www.codechef.com/users/spmall" target="blank">
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="spmall" height="40" width="40" />
+    </a>
+    <a href="https://www.hackerrank.com/thesatyamall123" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="thesatyamall123" height="40" width="40" />
+    </a>
+    <a href="https://auth.geeksforgeeks.org/user/thesatyamall123" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="thesatyamall123" height="40" width="40" />
+    </a>
 </p>
 <br/>
 
