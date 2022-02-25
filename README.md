@@ -114,7 +114,7 @@ I'm a passionate Full Stack Web Developer specilized in MERN stack. My passion f
 <br/>
 <div>
 <a href="https://github.com/Satyamall">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyamall&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyamall&theme=light&hide_langs_below=1" alt="Satyamall"/>
 </a> 
 </div>
 <br/>
