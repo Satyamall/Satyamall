@@ -158,6 +158,9 @@ I'm a passionate Full Stack Web Developer specilized in MERN stack. My passion f
     <a href="https://auth.geeksforgeeks.org/user/thesatyamall123" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="thesatyamall123" height="40" />
     </a>&nbsp;&nbsp;
+     <a href="https://leetcode.com/Satya_Mall/" target="blank">
+        <img align="center" src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" alt="Satya_Mall" height="40" />
+    </a>&nbsp;&nbsp;
    </div>
 </p>
 <br/>
