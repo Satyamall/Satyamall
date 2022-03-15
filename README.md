@@ -168,7 +168,7 @@ I'm a passionate Full Stack Web Developer specilized in MERN stack. My passion f
 # Projects and Deployed: 
 
 <a href="https://satyamall.github.io/teachable.com-project-code-only-in-react/">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Satyamall&repo=https://github.com/Satyamall/Teachable.com-project-code&cache_seconds=86400&theme=swift" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Satyamall&repo=Teachable.com-project-code&cache_seconds=86400&theme=swift" />
 </a>
 <a href="https://satyamall.github.io/Booking.com-in-React.js-cloned/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Satyamall&repo=Booking.com-clone-in-React.js&cache_seconds=86400&theme=swift" />
