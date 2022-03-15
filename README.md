@@ -167,6 +167,9 @@ I'm a passionate Full Stack Web Developer specilized in MERN stack. My passion f
 
 # Projects and Deployed: 
 
+<a href="https://satyamall.github.io/teachable.com-project-code-only-in-react/">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Satyamall&repo=https://github.com/Satyamall/Teachable.com-project-code&cache_seconds=86400&theme=swift" />
+</a>
 <a href="https://satyamall.github.io/Booking.com-in-React.js-cloned/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Satyamall&repo=Booking.com-clone-in-React.js&cache_seconds=86400&theme=swift" />
 </a>
@@ -178,9 +181,6 @@ I'm a passionate Full Stack Web Developer specilized in MERN stack. My passion f
 </a>
 <a href="#">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Satyamall&repo=GaanaMusicClone&cache_seconds=86400&theme=swift" />
-</a>
-<a href="https://satyamall.github.io/Restaurant-Website-in-javaScript/">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Satyamall&repo=Restaurant-Website-in-javaScript&cache_seconds=86400&theme=swift" />
 </a>
 <a href="https://satyamall.github.io/Project-1-Manganese-Clone-GreenHouse.io/">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Satyamall&repo=Project-1-Manganese&cache_seconds=86400&theme=swift" />
